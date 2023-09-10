@@ -2,6 +2,8 @@
 coderdojo workbook example 
 
 
+
+
 ## 教材
 
 - プログラミングがはじめて
@@ -16,6 +18,19 @@ coderdojo workbook example
 - ゲームしながらプログラミングしたい
     - [ハックフォープレイ](https://www.hackforplay.xyz/)
     - [CODE COMBAT](https://codecombat.com/)
+
+- Git コマンド と Github Pages を利用してホームページを公開する
+    - はじめにGit とは
+        - Git の導入の仕方
+            - Windows WSL
+            - MacOS
+        - Github とは
+            - GitHub Pages とは
+
+- RSA暗号をスクラッチで実装してみよう
+    - どんなところで暗号は使われているか 
+    - [RSA暗号で「ふっかつのじゅもん」を作る(1)](https://pashango-p.hatenadiary.org/entry/20090706/1246897957)
+      - スクラッチで実装
 
 
 ## 参考URL
